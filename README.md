@@ -5,6 +5,8 @@ IpValidator es una serie de archivos .bat generados para encontrar las ip´s val
 
 Abre tu cmd o ps y ejecuta:
 ````
+git clone https://github.com/Jared0307/IpValidator.git
+cd IpValidator
 main.bat
 ````
 o simplemente haz clic sobre el archivo:
